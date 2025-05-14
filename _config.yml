@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Pedro Lima / Phd Student"
+title                    : "Pedro's webpage"
 title_separator          : "-"
 name                     : &name "Pedro Lima"
 description              : &description "Pedro Lima's personal website"
@@ -25,15 +25,15 @@ author:
   avatar           : "profilewebsite.png"
   name             : "Pedro Lima"
   pronouns         : # example: "she/her"  
-  bio              : "Phd Student"
-  location         : "University of Texas at Austin"
-  employer         : 
+  bio              : "Phd Candidate"
+  location         : "Austin, Texas"
+  employer         : "University of Texas at Austin"
   uri              : 
   email            : "plima@utexas.edu" 
 
   # Academic websites
   arxiv            : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=W6V8ds0AAAAJ"
   impactstory      : 
   orcid            : 
   semantic         : 
